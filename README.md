@@ -1,1 +1,0 @@
-# yoga-pose-detection
